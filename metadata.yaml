@@ -1,0 +1,35 @@
+_repo: Sermons-for-the-Times_11381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: Cover -- Contents.
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Church of England -- Sermons'
+- GITenberg
+tableOfContents: Fathers and children -- Salvation -- A good conscience -- Names --
+  Sponsorship -- Justification by faith -- Duty and superstition -- Sonship -- The
+  Lord's Prayer -- The Doxology -- Ahab and Naboth -- The light of God -- Providence
+  -- England's strength -- The life of God -- God's offspring -- Death in life --
+  Shame -- Forgiveness -- The true gentleman -- Toleration -- Public spirit.
+title: Sermons for the Times
+url: http://www.gutenberg.org/ebooks/11381
